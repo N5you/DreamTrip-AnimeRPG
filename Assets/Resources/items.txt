@@ -1,0 +1,2 @@
+﻿0|生命药水|icon/items/1_1|consumables|no|10|ActiveEffect*生命值*20*3
+1|魔法药水|icon/items/2_1|consumables|no|10|ActiveEffect*魔法值*20*3
